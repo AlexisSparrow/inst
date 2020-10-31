@@ -1,0 +1,16 @@
+@import url(./add-box__icon/add-box__icon.css);
+@import url(./add-box__subtitle/add-box__subtitle.css);
+@import url(./add-box__content-row/add-box__content-row.css);
+@import url(./add-box__link/add-box__link.css);
+
+.add-box {
+    margin-top:15px;
+    background-color: wheat;
+    padding:10px 7.5px;
+    display: flex;
+    position: relative;
+}
+
+.add-box:hover {
+    border-radius: 10px;
+}

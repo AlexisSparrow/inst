@@ -1,0 +1,7 @@
+.box__title {
+    font-size: 16px;
+    margin:0;
+    margin-top:2px;
+    font-weight: 600;
+    white-space: pre-line;
+}

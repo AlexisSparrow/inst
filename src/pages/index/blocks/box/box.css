@@ -1,0 +1,11 @@
+@import url(./box__title/box__title.css);
+@import url(./box__avatar/box__avatar.css);
+@import url(./content-row/content-row.css);
+@import url(./box__subtitle/box__subtitle.css);
+
+.box {
+    background-color: wheat;
+    padding:10px 7.5px;
+    border-radius: 10px;
+    display: flex;
+}
